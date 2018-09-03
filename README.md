@@ -1,3 +1,1 @@
-# datagit
-there are some programs underthe ubantu 
-python version python2.7
+a keras implementation of darknet53(only network structure, no trainning weghts)
